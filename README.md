@@ -49,13 +49,9 @@ A dynamic, web-based library platform designed to automate book inventory, struc
 
 ---
 
-## Developer Team's Name and Student ID
+## Developer's Name and Student ID
 
 * **Omar Minhaz Abir** : 242-053-042
-
-* **Emon Islam** : 242-006-042
-
-* **Marzia Khondokar Soha** : 242-031-042
 
 ### Academic Supervised By:
 * **Lecturer: Halima Mowla** Department of Computer Science and Engineering (CSE), Primeasia University
